@@ -3200,9 +3200,9 @@ Cybersecurity Student | AI & Machine Learning Learner | TryHackMe | Hack The Box
 
 ---
 
-LinkrdIn: []
+LinkrdIn: [https://www.linkedin.com/feed/update/urn:li:activity:7482398958955339776/]
 
-X: []
+X: [https://x.com/charisma1385/status/2076634210966606042]
 
 ---
 
